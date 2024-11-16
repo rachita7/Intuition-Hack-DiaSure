@@ -1,6 +1,6 @@
 # 🩺 Dia-sure: Diabetes Management App
 
-Project for Intuition Hackathon
+Project for iNTUition v6 Hackathon
 
 ## Overview  
 **Dia-sure** is an innovative app designed to assist diabetic patients in their day-to-day lives by predicting blood sugar levels and providing personalized dietary suggestions. It reduces the need for frequent blood sugar testing and offers convenience by enabling users to track and analyze their blood sugar data.  
